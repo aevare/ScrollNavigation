@@ -1,8 +1,10 @@
 /*
- * ScrollNavigation
- * Simple navigation highlighter on scroll.
- * Author: Ã†var Eggertsson - aevar@eggertsson.org
- */
+* ScrollNavigation.js by @aevare
+* Author: AEvar Eggertsson - Eggertsson.org
+*
+* The MIT License (MIT)
+* http://github.com/aevare/ScrollNavigation 
+*/
 (function($, undefined){
 
 	var _settings = {
